@@ -158,8 +158,6 @@ modeling**
    https://arxiv.org/pdf/2510.07284
 ---
 
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! If you want to add a paper, benchmark, or tool to this list:
